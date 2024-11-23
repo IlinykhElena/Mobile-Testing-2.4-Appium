@@ -1,3 +1,5 @@
+package ru.netology.testing.uiautomator;
+
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import org.junit.jupiter.api.AfterEach;
